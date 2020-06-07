@@ -1,12 +1,17 @@
-# Results
+# Azure PostgreSQL performance test
 
-- `450GB / v2`, inserts_thread: 100, selects_thread: 0    -> inserts: `1600 tps` | selects: `0 tps`
-- `450GB / v4`, inserts_thread: 100, selects_thread: 0    -> inserts: `3000 tps` | selects: `0 tps`
-- `450GB / v2`, inserts_thread: 0  , selects_thread: 100  -> inserts: `0 tps` | selects: `2600 tps`
-- `450GB / v4`, inserts_thread: 0  , selects_thread: 100  -> inserts: `0 tps` | selects: `5000 tps`
-- `450GB / v2`, inserts_thread: 50 , selects_thread: 50   -> inserts: `300 tps` | selects: `1500 tps`
+## Results
 
-note: by the azure metrics, using 4 cores looked CPU bound (or network), but not IOPS (drive)
+- `450GB / 2 vcores`, inserts_thread: 100, selects_thread: 0    -> inserts: `1600 tps` | selects: `0 tps`
+- `450GB / 4 vcores`, inserts_thread: 100, selects_thread: 0    -> inserts: `3000 tps` | selects: `0 tps`
+- `450GB / 2 vcores`, inserts_thread: 0  , selects_thread: 100  -> inserts: `0 tps` | selects: `2600 tps`
+- `450GB / 4 vcores`, inserts_thread: 0  , selects_thread: 100  -> inserts: `0 tps` | selects: `5000 tps`
+- `450GB / 2 vcores`, inserts_thread: 50 , selects_thread: 50   -> inserts: `300 tps` | selects: `1500 tps`
+
+**note:**
+- all records (insert/select) are ca. 14kBytes in size
+- for details see the `results` folder (some records are skipped, don't be bothered if insertion count jumps)
+- looking at the azure metrics, using 4 cores looked CPU bound (or network), but not IOPS (drive)
 
 
 ## example results used:
