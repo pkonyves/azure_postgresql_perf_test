@@ -1,6 +1,7 @@
 # Azure PostgreSQL performance test
 
 ## Results
+2020-06-07
 
 - `450GB / 2 vcores`, inserts_thread: 100, selects_thread: 0    -> inserts: `1600 tps` | selects: `0 tps`
 - `450GB / 4 vcores`, inserts_thread: 100, selects_thread: 0    -> inserts: `3000 tps` | selects: `0 tps`
