@@ -14,6 +14,7 @@
     - insert threads
     - select threads
     - max messages to insert
+- `python3 postgres_test.py`
     
 # some info:
 - records used for insert in `generate.sql` and `postgres_test.py` is about `14 kBytes`
