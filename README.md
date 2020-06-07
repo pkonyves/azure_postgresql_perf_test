@@ -6,6 +6,8 @@
 - `450GB / v4`, inserts_thread: 0  , selects_thread: 100  -> inserts: `0 tps` | selects: `5000 tps`
 - `450GB / v2`, inserts_thread: 50 , selects_thread: 50   -> inserts: `300 tps` | selects: `1500 tps`
 
+note: by the azure metrics, using 4 cores looked CPU bound (or network), but not IOPS (drive)
+
 
 ## example results used:
 - 450GB of drive
