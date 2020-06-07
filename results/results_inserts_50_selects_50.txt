@@ -1,0 +1,131 @@
+fetching current row count, may take a while (1-2 min)
+fetched current row count: 9444113
+fetching random uuids: 1000000
+fetched random uuids: 1000000
+starting insert threads: 50
+starting select threads: 50
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       1990.0
+inserts:             397.93 tps
+selects count:        365.0
+selects:               73.0 tps
+all bytes out:   26260040.0 chars
+message size:       13196.0 chars
+bytes/sec:        5251032.7
+-----------------------------
+elapsed:               5.01 sec
+inserts count:       3890.0
+inserts:             379.62 tps
+selects count:       3570.0
+selects:              640.4 tps
+all bytes out:   51332440.0 chars
+message size:       13196.0 chars
+bytes/sec:        5009411.4
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       4990.0
+inserts:              13.00 tps
+selects count:      49705.0
+selects:             2605.1 tps
+all bytes out:   65848040.0 chars
+message size:       13196.0 chars
+bytes/sec:         171489.4
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       4990.0
+inserts:               0.00 tps
+selects count:      62810.0
+selects:             2620.3 tps
+all bytes out:   65848040.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       4990.0
+inserts:               0.00 tps
+selects count:      76360.0
+selects:             2709.6 tps
+all bytes out:   65848040.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       6620.0
+inserts:             325.88 tps
+selects count:      86140.0
+selects:             1955.3 tps
+all bytes out:   87357520.0 chars
+message size:       13196.0 chars
+bytes/sec:        4300301.1
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       8595.0
+inserts:             394.61 tps
+selects count:      95355.0
+selects:             1841.2 tps
+all bytes out:  113419620.0 chars
+message size:       13196.0 chars
+bytes/sec:        5207315.4
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       9290.0
+inserts:             138.87 tps
+selects count:     106775.0
+selects:             2281.8 tps
+all bytes out:  122590840.0 chars
+message size:       13196.0 ch
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      12600.0
+inserts:             407.77 tps
+selects count:     137750.0
+selects:             1534.2 tps
+all bytes out:  166269600.0 chars
+message size:       13196.0 chars
+bytes/sec:        5380991.7
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      13015.0
+inserts:              82.99 tps
+selects count:     148980.0
+selects:             2245.6 tps
+all bytes out:  171745940.0 chars
+message size:       13196.0 chars
+bytes/sec:        1095078.5
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      13375.0
+inserts:              71.98 tps
+selects count:     161875.0
+selects:             2578.1 tps
+all bytes out:  176496500.0 chars
+message size:       13196.0 chars
+bytes/sec:         949788.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      15570.0
+inserts:             438.56 tps
+selects count:     171750.0
+selects:             1973.0 tps
+all bytes out:  205461720.0 chars
+message size:       13196.0 chars
+bytes/sec:        5787300.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      16135.0
+inserts:             112.99 tps
+selects count:     183745.0
+selects:             2398.7 tps
+all bytes out:  212917460.0 chars
+message size:       13196.0 chars
+bytes/sec:        1490981.1
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      17805.0
+inserts:             333.67 tps
+selects count:     194000.0
+selects:             2049.0 tps
+all bytes out:  234954780.0 chars
+message size:       13196.0 chars
+bytes/sec:        4403092.3

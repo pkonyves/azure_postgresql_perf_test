@@ -1,0 +1,64 @@
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     131700.0
+selects:             4979.4 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     156720.0
+selects:             5001.0 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     181915.0
+selects:             5037.2 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     207500.0
+selects:             5114.3 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     233270.0
+selects:             5152.3 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     258435.0
+selects:             5028.1 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:          0.0
+inserts:               0.00 tps
+selects count:     282130.0
+selects:             4738.1 tps
+all bytes out:          0.0 chars
+message size:       13196.0 chars
+bytes/sec:              0.0
+

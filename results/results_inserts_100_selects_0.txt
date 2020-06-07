@@ -1,0 +1,124 @@
+fetching current row count, may take a while (1-2 min)
+fetched current row count: 9293733
+fetching random uuids: 1000000
+fetched random uuids: 1000000
+starting insert threads: 100
+starting select threads: 0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:        130.0
+inserts:              26.00 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:    1715480.0 chars
+message size:       13196.0 chars
+bytes/sec:         343048.7
+-----------------------------
+elapsed:               5.01 sec
+inserts count:       1455.0
+inserts:             264.73 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:   19200180.0 chars
+message size:       13196.0 chars
+bytes/sec:        3493379.3
+-----------------------------
+elapsed:               5.00 sec
+inserts count:       7800.0
+inserts:            1267.74 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  102928800.0 chars
+message size:       13196.0 chars
+bytes/sec:       16729052.7
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      16305.0
+inserts:            1700.35 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  215160780.0 chars
+message size:       13196.0 chars
+bytes/sec:       22437838.1
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      24695.0
+inserts:            1676.70 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  325875220.0 chars
+message size:       13196.0 chars
+bytes/sec:       22125717.9
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      32590.0
+inserts:            1578.74 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  430057640.0 chars
+message size:       13196.0 chars
+bytes/sec:       20833034.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      40555.0
+inserts:            1591.64 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  535163780.0 chars
+message size:       13196.0 chars
+bytes/sec:       21003273.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      56875.0
+inserts:            1602.37 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  750522500.0 chars
+message size:       13196.0 chars
+bytes/sec:       21144825.6
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      64985.0
+inserts:            1620.77 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  857542060.0 chars
+message size:       13196.0 chars
+bytes/sec:       21387656.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      73200.0
+inserts:            1642.75 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out:  965947200.0 chars
+message size:       13196.0 chars
+bytes/sec:       21677765.0
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      81650.0
+inserts:            1688.76 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out: 1077453400.0 chars
+message size:       13196.0 chars
+bytes/sec:       22284849.8
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      89540.0
+inserts:            1576.44 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out: 1181569840.0 chars
+message size:       13196.0 chars
+bytes/sec:       20802717.3
+-----------------------------
+elapsed:               5.00 sec
+inserts count:      97505.0
+inserts:            1592.47 tps
+selects count:          0.0
+selects:                0.0 tps
+all bytes out: 1286675980.0 chars
+message size:       13196.0 chars
+bytes/sec:       21014277.7
+
